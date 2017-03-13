@@ -1,12 +1,12 @@
 {
-  "name": "phonegap-template-hello-world",
+  "name": "phonegap-template",
   "version": "4.0.3",
-  "description": "> A Hello World template built with PhoneGap",
+  "description": "PhoneGap Template",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phonegap/phonegap-app-hello-world.git"
+    "url": "https://github.com/victorhahn/phonegap-template.git"
   },
-  "author": "PhoneGap Team",
+  "author": "Victor Hahn",
   "license": "Apache-2.0",
   "keywords": [
     "ecosystem:phonegap",
@@ -15,7 +15,7 @@
     "phonegap:template"
   ],
   "bugs": {
-    "url": "https://github.com/phonegap/phonegap-app-hello-world/issues"
+    "url": "https://github.com/victorhahn/phonegap-template/issues"
   },
-  "homepage": "https://github.com/phonegap/phonegap-app-hello-world"
+  "homepage": "https://github.com/victorhahn/phonegap-template/"
 }
